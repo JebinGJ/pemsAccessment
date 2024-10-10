@@ -12,7 +12,7 @@ Features:
 Installation & Setup:
 
  clones the repository:
-  git clone https://github.com/your-username/your-repository-name.git
+  git clone https://github.com/JebinGJ/pemsAccessment.git
 
 Navigate to the project directory:
 cd your-repository-name
